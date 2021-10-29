@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    background-color: #BDBDBD;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+#page {
+    width: 960px;
+    margin: 0 auto;
+    min-width: 820px;
+    max-width: 1280px;
+}
+
+.logo {
+    width: 150px;
+    height: 100px;
+    margin: 15px;
+}
+
+.cabecalho {
+    height: 150px;
+    background-color: #d1cfcf;
+}
+
+.cabecalho ul a {
+    font-size: 1em;
+    display: block;
+    padding: 0.5em 1.5em;
+    line-height: 2.1em;
+}
+
+
+ul {
+    list-style: none;
+    margin: 0;
+    margin-top: 5%;
+    padding: 0;
+    width: 720px;
+    float: right;
+    
+}
+
+ul li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 0 2em;
+    line-height: 3em;
+    text-decoration: none;
+    color: #fff;
+}
+
+ul  a:hover {
+    color: #894a1f;
+}
+
+#rodape {
+    width: 750px;
+    margin: 0 auto;
+    margin-left: 10%;
+    background-color: #d1cfcf;
+    padding: 20px;
+}
+
+footer div p {
+    text-align: center;
+}
+
+    
+
+
+
